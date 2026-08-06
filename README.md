@@ -13,9 +13,7 @@
   <a href="mailto:awanhashim467@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="tel:+923288683681">
-    <img src="https://img.shields.io/badge/Mobile-+92_328_8683681-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile" />
-  </a>
+
 
 </div>
 
@@ -23,13 +21,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I am a BS Artificial Intelligence student at the University of Haripur (Oct 2023 - Oct 2027)[cite: 1].
-- 💼 I am currently working as an Artificial Intelligence Intern at Flyrank AI (Canada)[cite: 1].
-- 🌐 I am also actively contributing as a Community Member for AWS SBG UOH[cite: 1].
-- 🧠 My strong interests lie in Machine Learning, Data Science, and real-world AI applications[cite: 1].
-- 💡 I am passionate about learning, building intelligent systems, and solving real-world problems using AI[cite: 1].
-- 🔍 I am actively seeking opportunities in Machine Learning Internships, AI Internships, and Data Science Internships[cite: 1].
-- 📍 Based in Haripur, Khyber Pakhtunkhwa, Pakistan[cite: 1].
+- 🎓 I am a BS Artificial Intelligence student at the University of Haripur (Oct 2023 - Oct 2027).
+- 💼 I am currently working as an Artificial Intelligence Intern at Flyrank AI (Canada).
+- 🌐 I am also actively contributing as a Community Member for AWS SBG UOH.
+- 🧠 My strong interests lie in Machine Learning, Data Science, and real-world AI applications.
+- 💡 I am passionate about learning, building intelligent systems, and solving real-world problems using AI.
+- 🔍 I am actively seeking opportunities in Machine Learning Internships, AI Internships, and Data Science Internships.
+- 📍 Based in Haripur, Khyber Pakhtunkhwa, Pakistan.
 
 ---
 
@@ -58,34 +56,26 @@
 
 ### 💼 Experience
 
-- **Artificial Intelligence Intern** @ *FlyRank AI* (June 2026 - Present)[cite: 1]
-  - Gaining hands-on experience in machine learning concepts, Python programming, and real-world AI workflows[cite: 1].
-- **Community Member** @ *AWS SBG UOH* (Feb 2026 - Present)[cite: 1]
-  - Organized and supported AWS-focused workshops, webinars, and technical sessions for students[cite: 1].
-  - Promoted cloud computing, Artificial Intelligence, and emerging technologies within the university community[cite: 1].
-- **Machine Learning Intern** @ *Arch Technologies* (March 2026 - April 2026)[cite: 1]
+- **Artificial Intelligence Intern** @ *FlyRank AI* (June 2026 - Present)
+  - Gaining hands-on experience in machine learning concepts, Python programming, and real-world AI workflows.
+- **Community Member** @ *AWS SBG UOH* (Feb 2026 - Present)
+  - Organized and supported AWS-focused workshops, webinars, and technical sessions for students.
+  - Promoted cloud computing, Artificial Intelligence, and emerging technologies within the university community.
+- **Machine Learning Intern** @ *Arch Technologies* (March 2026 - April 2026)
 
 ---
 
 ### 🏆 Certifications & Education
 
 **Certifications:**
-- AI Fluency: Frameworks & Foundations | AI Capabilities & Limitations | For Students[cite: 1]
-- Python Data Structures & Programming for Everybody (Getting Started with Python)[cite: 1]
+- AI Fluency: Frameworks & Foundations | AI Capabilities & Limitations | For Students
+- Python Data Structures & Programming for Everybody (Getting Started with Python)
 
 **Education:**
-- **Bachelor, Artificial Intelligence** | The University of Haripur (Oct 2023 - Oct 2027)[cite: 1]
-- **Fsc, ICS** | BISE, Abbottabad (Jan 2021 - Aug 2023)[cite: 1]
+- **Bachelor, Artificial Intelligence** | The University of Haripur (Oct 2023 - Oct 2027)
+- **Fsc, ICS** | BISE, Abbottabad (Jan 2021 - Aug 2023)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<HASHIM_GITHUB_USERNAME>&show_icons=true&theme=radium&hide_border=true" alt="Hashim's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<HASHIM_GITHUB_USERNAME>&theme=radium&hide_border=true" alt="Hashim's GitHub Streak" />
-</div>
 
 <div align="center">
   <i>Let's connect and build something amazing together! 🚀</i>
